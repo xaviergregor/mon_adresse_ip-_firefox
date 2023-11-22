@@ -1,6 +1,6 @@
 # Mon Adresse IP
 
-Extension Firefox pour afficher l'IP publique
+Extension Firefox pour afficher l'IP publique sur Firefox
 
     Ouvrez Firefox
     Accédez à about:debugging
